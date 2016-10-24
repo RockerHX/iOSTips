@@ -7,4 +7,4 @@
 
 #### 8.0
 
-[Xcode8关闭系统Log.](/Xcode/8.0/CloseSystemLogs.md)
+[Xcode8关闭系统Log](/Xcode/8.0/CloseSystemLogs.md)
